@@ -5,7 +5,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Masonry (1.1.0)
-  - WGTakePhoto (1.0.0)
+  - WGTakePhoto (1.0.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -24,7 +24,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  WGTakePhoto: 3eb1575ff7ca98eb131477959ede73dec19e478b
+  WGTakePhoto: bb9bd37454a1a39e71c81992ba4c45fe4e6f9ac1
 
 PODFILE CHECKSUM: 8b821135f649084f3844f894a62d39437163ea05
 
