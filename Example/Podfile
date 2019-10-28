@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WGTakePhoto_Example' do
+  pod 'WGTakePhoto', :path => '../'
+
+  target 'WGTakePhoto_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
