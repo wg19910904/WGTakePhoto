@@ -1,0 +1,31 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Masonry (1.1.0)
+  - WGTakePhoto (1.0.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Masonry
+  - WGTakePhoto (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+    - Masonry
+
+EXTERNAL SOURCES:
+  WGTakePhoto:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  WGTakePhoto: 3eb1575ff7ca98eb131477959ede73dec19e478b
+
+PODFILE CHECKSUM: 8b821135f649084f3844f894a62d39437163ea05
+
+COCOAPODS: 1.7.0

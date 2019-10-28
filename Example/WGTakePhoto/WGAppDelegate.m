@@ -7,7 +7,7 @@
 //
 
 #import "WGAppDelegate.h"
-
+#import "CameraViewController.h"
 @implementation WGAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions

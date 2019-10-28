@@ -1,0 +1,6 @@
+framework module WGTakePhoto {
+  umbrella header "WGTakePhoto-umbrella.h"
+
+  export *
+  module * { export * }
+}

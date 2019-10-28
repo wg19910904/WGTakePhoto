@@ -7,7 +7,7 @@ target 'WGTakePhoto_Example' do
 
   target 'WGTakePhoto_Tests' do
     inherit! :search_paths
-
+    pod 'Masonry'
     pod 'FBSnapshotTestCase'
   end
 end

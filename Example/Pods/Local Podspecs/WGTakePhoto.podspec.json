@@ -1,0 +1,22 @@
+{
+  "name": "WGTakePhoto",
+  "version": "1.0.0",
+  "summary": "A short description of WGTakePhoto.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wg19910904/WGTakePhoto",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wg": "1911476762@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wg19910904/WGTakePhoto.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WGTakePhoto/Classes/**/*"
+}
